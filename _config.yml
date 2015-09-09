@@ -9,7 +9,7 @@ name: "CS371p Fall 2015: Jonathan Velasquez"
 description: "A young C++ grasshopper in training from the wise mantis, Glenn Downing"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: [image]: http://JohnnyLee10.github.io/images/me.jpg "Image title" {width=400px height=400px}
+avatar: ![](http://JohnnyLee10.github.io/images/me.jpg =250x)
 
 #
 # Flags below are optional
