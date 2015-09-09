@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my last year here at the University of Texas-Austin, and I'm simply trying to take the most beneficial courses that I possibly can. I've never worked with C++ so I might as well let Professor Downing be the one to teach me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jovelasquez@utexas.edu](mailto:jovelasquez@utexas.edu)
