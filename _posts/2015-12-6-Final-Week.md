@@ -14,3 +14,10 @@ Thinking of ways to apply material not explicitly taught in the class is the bes
 
 The class itself was amazing. Coming from a background of just Java and Python, learning a language like C++ really teaching you so much of how everything is handled under the hood. Not just for C++ but for languages like Java and Python. You connect the dots together and it's a great feeling. If/when the time comes that I will program in Java or Python or any other language, I feel like my programming skills are just way sharper just because of the ability to compare to a lower level language like C++.
 
+As of now, all I can really do is try to be patient and hope that all goes well for me in the class. As a senior, having to retake this class would really set me back from my goals of graduating at a specific time and puruing a role in the real world.
+
+Tip of the semester: Time management is what I felt was a theme within my blog entries. You can be the most sharpest person about not wasting a single minute of your day while getting healthy sleep, but if you overload yourself with too many responsibilities, not even you will be able to fill it all. I have never overloaded myself with too much course work for that reason, yet, I still continue to have my downfalls.  But I will continue to keep this technique and hope for better days. If you can handle the stress, all power to you and I envy you.
+
+You can never go wrong with taking a course from Dr. Downing. He stays up to date on all the real world tools and guest speakers are very amazed when they hear that we're using the same tools. But his courses aren't easy. So be careful what other courses you regiser for along with it or how many hours a week you're working, etc. Balance. Time management. Practice.
+
+I learned so much from the students that I got paired up with. I have a few side projects in mind that I plan to do over the winter break after soaking some idaeas and knowledge from my peers and what Dr. Downing has showed me.
